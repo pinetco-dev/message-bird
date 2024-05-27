@@ -1,7 +1,8 @@
 {
-    "name": "pinetcodev/message-bird",
+    "name": "pinetco-dev/message-bird",
     "description": "SMS services provider message-bird",
     "type": "library",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Pinetcodev\\MessageBird\\": "src/"
